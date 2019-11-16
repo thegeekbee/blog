@@ -41,3 +41,8 @@ main{
 	padding: 20px;
 }
 
+p.caption{
+	font-style: italic;
+	color: grey;
+}
+
