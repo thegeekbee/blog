@@ -1,0 +1,43 @@
+header{
+	background-color: #F5F9FF;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	font-family: 'Inconsolata', monospace;
+}
+
+h1 img{
+	height: 100px;
+	width: 100px;
+}
+
+h1{
+	font-size: 60px;
+}
+
+h2{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Covered By Your Grace', monospace;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+a{
+	color: #FCC62A;
+	font-family: 'Courier New', monospace;
+}
+
+body{
+	text-align: center;
+	margin: 0;
+	line-height: 30px;
+
+}
+
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
